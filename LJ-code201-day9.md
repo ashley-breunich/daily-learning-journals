@@ -2,9 +2,9 @@
 
 Tonight we focused on Object Literals and DOMs. An Object Literal is the most popular way to create an object. It allows you to store data and access that data. Key value pairs are located inside the object and you can have as many items in the object that you wish. They can include any data type, including functions. 
 
-ie: 
+ie (this is a value key pair): 
 var wolf {
-name: "Gray",   // This is a key value pair
+name: "Gray",
 }
 
 We spoke a bit about bracket notation [] to refer to the content you are wanting to access, however, dot notation is more common. 
