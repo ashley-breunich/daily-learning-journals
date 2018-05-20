@@ -1,0 +1,7 @@
+# LJ Code 201 - Day 11
+
+Today was a full lab day - the first one we have had. We started off on Javascipt Git math questions, which were challenging (especially number 3). It was the first time I had really been involved in a co-working environment at Code Fellows. I asked for help on a few items and even helped a few people through issues they were having! I am really loving the collaborative nature of this class. 
+
+Next, we had a Power Hour where Rachel hosted a Q&A with two female graduates of the program. I learned a ton and am a bit more familiar with the post-gradute flow. It's not unexpected to apply to 200-300 jobs the first time around, which seems amazing. I learned the importance of keeping your Git Hub account up to date and making daily commits to show that you are actively working projects. Super helpful advice! 
+
+The third part of the day was continuing to work on our Salmon Cookies project. I am really happy with where I left off on it - everything seems to be working and I even got the calculations added to the page through DOM manipulation. I honestly cannot believe I came up with the code. I was looking back at the work and was kind of in awe. I am excited for the third week to begin!
