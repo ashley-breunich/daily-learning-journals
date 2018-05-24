@@ -1,0 +1,6 @@
+# LJ Code 201 - Day 13
+
+**May 22nd, 2018**
+Today was my first meet up! It was hosted by RedFin and sponsored by both Bunker Labs and Operation Code. There were two great speakers - Stephen Riley from (https://www.apptio.com/ "APPTIO") and Brenda Wilson, who is an entrepreneur and owner of (http://www.diehardrc.com/ "DieHard Family RC Park"). Stephen talked a lot about concurrency and map-reducing, which were concepts that were above me but I was able to follow along with the general ideas. He was an excellent speaker - very engaging. I really enjoyed Brenda's talk, as it was exciting to hear from a female entrepreneur. She just recently launched a non-profit (literally last week) and hearing her successes and failures was inspiring. I had no interest in drones or drone flying before this meetup but I am actually very interested in visiting her park now! 
+
+I decided to go to this instead of attend the co-work and I think I made the right choice. Everyone was incredibly welcoming and even though I am not a veteran, I did not feel out of place. It was a great, collaborative environment and I was even able to meet a few new people. I got their names and have connected with them on LinkedIn. 
